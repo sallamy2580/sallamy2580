@@ -1,5 +1,6 @@
 
-![images](https://user-images.githubusercontent.com/104654833/179475379-8527582e-9b8f-403a-9a22-b4f1610d8a54.jpg)
+![images (4)](https://user-images.githubusercontent.com/104654833/179475671-fe579b9a-7cc8-4b07-8cf0-9c2d3ae1c15c.jpg)
+
 
 ### _Hi devs and clients_ 👋
 _Thanks for visiting my portfolio and taking the time to find learn how I can help you with your project._
