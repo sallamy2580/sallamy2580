@@ -14,33 +14,35 @@ _Thanks for visiting my portfolio and taking the time to find learn how I can he
 - ⚡Whichever something is difficult, I never give up almost always breakthrough for my client going above and beyond. I believe communication is important and being reliable for my clients is what I focus on. I understand that I can make us both money by working together and executing you plan.
 
 - 🌱🌱🌱Stack🌱🌱🌱
-📘 Blockchain
-🔹 EVM, Solidity, Smart contract, web3.js/ethereum.js
-🔹 NFTs (Solana, ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
-🔹 Art & Metadata generation, IPFS, 10k NFTs
-📘 Front-End
-🔹 React/Next JS, TypeScript, Redux, Redux Thunk, Redux Saga, Context, React Hooks, React Router (React relevant skills)
-🔹 ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS
-🔹 Material-UI, TailWind CSS, Bluprint JS (for a smart front-end UI)
-🔹 REST/GraphQL
-🔹 Figma, Adobe XD, AI (familiar with these design files)
-📘 Back-End
-🔹 Node, Express JS, Asp.Net Core, Django (for a server)
-🔹 API Gateway
-🔹 Python, Django, Flask, FastAPI, SQLAlchemy, PySpacy, Golang, Ruby
-🔹 Java, Java Spring, Spring Boot
-🔹 Socket.io, WebSocket (real-time data transfer)
-📘 Database
-🔹 MySQL, PostgreSQL, GraphQL
-🔹 MongoDB - Google Firebase
-🔹 AWS Lambda, DynamoDB
+
+- 📘 Blockchain
+- 🔹 EVM, Solidity, Smart contract, web3.js/ethereum.js
+- 🔹 NFTs (Solana, ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
+- 🔹 Art & Metadata generation, IPFS, 10k NFTs
+- 📘 Front-End
+- 🔹 React/Next JS, TypeScript, Redux, Redux Thunk, Redux Saga, Context, React Hooks, React Router (React relevant skills)
+- 🔹 ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS
+- 🔹 Material-UI, TailWind CSS, Bluprint JS (for a smart front-end UI)
+- 🔹 REST/GraphQL
+- 🔹 Figma, Adobe XD, AI (familiar with these design files)
+- 📘 Back-End
+- 🔹 Node, Express JS, Asp.Net Core, Django (for a server)
+- 🔹 API Gateway
+- 🔹 Python, Django, Flask, FastAPI, SQLAlchemy, PySpacy, Golang, Ruby
+- 🔹 Java, Java Spring, Spring Boot
+- 🔹 Socket.io, WebSocket (real-time data transfer)
+- 📘 Database
+- 🔹 MySQL, PostgreSQL, GraphQL
+- 🔹 MongoDB - Google Firebase
+- 🔹 AWS Lambda, DynamoDB
 
 - 📫 How to reach me: 
   [telegram: https://t.me/superpolaris]
+  
+  
 Best regards.
 Thanks for your undying gratitude.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 <!--
 **sallamy2580/sallamy2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
