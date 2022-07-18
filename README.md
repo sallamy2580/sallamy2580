@@ -1,7 +1,19 @@
-### _Hi devs and clients_ 👋
-_Me_
-![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179471386-57ae3e65-7189-4d33-bbe3-75eb0ac1ce7a.jpg)
 
+![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179471386-57ae3e65-7189-4d33-bbe3-75eb0ac1ce7a.jpg)
+### _Hi devs and clients_ 👋
+_Thanks for visiting my portfolio and taking the time to find learn how I can help you with your project._
+
+- ⚡I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like React development, blockchain, MORE.
+
+- ⚡I have always had an ambitious attitude about new technology and embracing the challenge of learning something new. It feels good to always strive to push my limits of whatever is possible.
+
+
+- ⚡With that being said about my passion for technology, I have the intimate knowledge of everything web development, blockchain and crypto, and machine learning/deep learning. My recent work has included various projects involving cryptocurrency and blockchain technologies such as a NFT marketplace and several smart contract assignments.
+
+- ⚡Whichever something is difficult, I never give up almost always breakthrough for my client going above and beyond. I believe communication is important and being reliable for my clients is what I focus on. I understand that I can make us both money by working together and executing you plan.
+
+Best regards.
+Thanks for your undying gratitude.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--
