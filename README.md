@@ -1,4 +1,5 @@
-### Hi there 👋
+### _Hi devs and clients_ 👋
+_Me_
 ![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179471386-57ae3e65-7189-4d33-bbe3-75eb0ac1ce7a.jpg)
 
 - 😄 Pronouns: ...
