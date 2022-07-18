@@ -1,6 +1,4 @@
-
-![images (4)](https://user-images.githubusercontent.com/104654833/179475671-fe579b9a-7cc8-4b07-8cf0-9c2d3ae1c15c.jpg)
-
+![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179482807-1958d424-5076-4d64-a0dc-c0e628944bd5.jpg)
 
 ### _Hi devs and clients_ 👋
 _Thanks for visiting my portfolio and taking the time to find learn how I can help you with your project._
