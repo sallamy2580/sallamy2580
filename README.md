@@ -1,4 +1,5 @@
-![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179482807-1958d424-5076-4d64-a0dc-c0e628944bd5.jpg)
+![shahadat-rahman-gnyA8vd3Otc-unsplash](https://user-images.githubusercontent.com/104654833/179483808-c5180409-e9eb-4339-a9b8-9e0c16a4ca70.jpg)
+
 
 ### _Hi devs and clients_ 👋
 _Thanks for visiting my portfolio and taking the time to find learn how I can help you with your project._
@@ -12,6 +13,30 @@ _Thanks for visiting my portfolio and taking the time to find learn how I can he
 
 - ⚡Whichever something is difficult, I never give up almost always breakthrough for my client going above and beyond. I believe communication is important and being reliable for my clients is what I focus on. I understand that I can make us both money by working together and executing you plan.
 
+- 🌱🌱🌱Stack🌱🌱🌱
+📘 Blockchain
+🔹 EVM, Solidity, Smart contract, web3.js/ethereum.js
+🔹 NFTs (Solana, ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
+🔹 Art & Metadata generation, IPFS, 10k NFTs
+📘 Front-End
+🔹 React/Next JS, TypeScript, Redux, Redux Thunk, Redux Saga, Context, React Hooks, React Router (React relevant skills)
+🔹 ES5/ES6, TypeScript, SCSS, CSS3, TailwindCSS
+🔹 Material-UI, TailWind CSS, Bluprint JS (for a smart front-end UI)
+🔹 REST/GraphQL
+🔹 Figma, Adobe XD, AI (familiar with these design files)
+📘 Back-End
+🔹 Node, Express JS, Asp.Net Core, Django (for a server)
+🔹 API Gateway
+🔹 Python, Django, Flask, FastAPI, SQLAlchemy, PySpacy, Golang, Ruby
+🔹 Java, Java Spring, Spring Boot
+🔹 Socket.io, WebSocket (real-time data transfer)
+📘 Database
+🔹 MySQL, PostgreSQL, GraphQL
+🔹 MongoDB - Google Firebase
+🔹 AWS Lambda, DynamoDB
+
+- 📫 How to reach me: 
+  [telegram: https://t.me/superpolaris]
 Best regards.
 Thanks for your undying gratitude.
 - 😄 Pronouns: ...
