@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **sallamy2580/sallamy2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
