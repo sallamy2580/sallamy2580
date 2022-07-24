@@ -111,7 +111,7 @@
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superpol@ris)](https://github.com/sallamy2580/github-readme-stats)
 
 ## 📈 Stats
 
