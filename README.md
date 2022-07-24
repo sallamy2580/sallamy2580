@@ -6,9 +6,10 @@
 
 ## 🚀 About Me
 
-🎓 I am a o, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+🎓 I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like **Web development**, **Blockchain development & DApps**, **Reverse engineering** and  **Machine Learning & Deep learning**.
+I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **React Applications**.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**] 2 years ago, but I didn't have got a
+👨‍💻 I always strive to push my limits of whatever is possible. And very enjoy hard working and make my own creative something. Having ambitious and overwhelming  attitude to the upcoming technology and will move forward in advance.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
@@ -18,10 +19,8 @@
 
 ## 🏅 Achievements
 
--   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
--   🏆 **Top Rated** at _Upwork_ (September 2021)
--   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
+-   🏆 **Top Rated** 
+-   ⏫ **Rising Talent**
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
