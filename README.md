@@ -110,6 +110,9 @@
 
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 Stats
 
 <div align="center">
@@ -118,6 +121,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
     <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+    
 </div>
 
 ## 🔗 Links
