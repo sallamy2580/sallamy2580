@@ -100,7 +100,7 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-## 📝 Top Blog Posts
+<!-- ## 📝 Top Blog Posts
 
 -   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
 -   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
@@ -111,7 +111,7 @@
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superpol@ris)](https://github.com/sallamy2580/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Stats
 
@@ -122,7 +122,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
     
-</div>
+</div> -->
 
 ## 🔗 Links
 
